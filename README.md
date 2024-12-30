@@ -5,5 +5,5 @@ doing react from Hitesh Choundary sir. : https://www.youtube.com/playlist?list=P
 and alongside following the harkirat course.
 
 ## DEC 31,2024 : 
-right now i am woklring as a data analyst so most of my work includes MS Power BI, Azure and Excel.
-beside that I am Leanring Python,ML and NLP concepts.
+-> Right now i am working as a data analyst so most of my work includes MS Power BI, Azure and Excel.
+Beside that I am Learning Python,ML and NLP concepts.
