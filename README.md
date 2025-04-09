@@ -1,10 +1,14 @@
 ## APRIL 9,2025 :
--> ADV SQL, PYHTON AND VISULIZATION TOOLS LIKE NUMPY,PANDAS, MATPLOTLIB, SEABORN ETC. 
--> BUILDING DATA ANALYST AND  DATA SCIENCE PROJECTS.
+
+### SQL, POWER BI, PYHTHON, ML
+-> ADV SQL, PYHTON AND VISULIZATION TOOLS LIKE NUMPY, PANDAS, MATPLOTLIB, SEABORN ETC. 
+
+-> BUILDING DATA ANALYSTICS AND DATA SCIENCE PROJECTS.
 
 ## DEC 31,2024 : 
 -> Right now i am working as a data analyst so most of my work includes MS Power BI, Azure and Excel.
-Beside that I am Learning Python,ML and NLP concepts.
+
+-> Beside that I am Learning Python,ML and NLP concepts.
 
 # My_Learning_currently
 this is repo where I update about what I am currently learning.
